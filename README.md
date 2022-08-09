@@ -15,6 +15,5 @@ An opensource service which validates feasible ideas given by the public with th
 ## Market
 Anyone willing to freely express or pursue ideas.
 
-## Limitations
-Developers
+
 
